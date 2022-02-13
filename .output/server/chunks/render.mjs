@@ -256,7 +256,7 @@ const htmlTemplate = (params) => `<!DOCTYPE html>
 </html>
 `;
 
-const STATIC_ASSETS_BASE = "/_nuxt/C:/Users/baiyue/Documents/GitHub/nuxt3-naive-ui-starter/dist" + "/" + "1644742082";
+const STATIC_ASSETS_BASE = "/_nuxt/C:/Users/baiyue/Documents/GitHub/nuxt3-naive-ui-starter/dist" + "/" + "1644743074";
 const PAYLOAD_JS = "/payload.js";
 const getClientManifest = cachedImport(() => import('./client.manifest.mjs'));
 const getSPARenderer = cachedResult(async () => {

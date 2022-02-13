@@ -16,19 +16,19 @@ const assets = {
   "/_nuxt/bootstrap-d9b99bbf.mjs": {
     "type": "application/javascript",
     "etag": "\"21e74-XoRXIU3a9Y+sfqFjFUHjuZ1AE9I\"",
-    "mtime": "2022-02-13T08:49:26.075Z",
+    "mtime": "2022-02-13T09:04:51.655Z",
     "path": "../public/_nuxt/bootstrap-d9b99bbf.mjs"
   },
   "/_nuxt/entry-3ca42b65.mjs": {
     "type": "application/javascript",
     "etag": "\"47-ytEEzXqmak4D6gLAoZ6RzdL1veI\"",
-    "mtime": "2022-02-13T08:49:26.072Z",
+    "mtime": "2022-02-13T09:04:51.654Z",
     "path": "../public/_nuxt/entry-3ca42b65.mjs"
   },
   "/_nuxt/manifest.json": {
     "type": "application/json",
     "etag": "\"19e-YXnqLBYLaahBH0i+0JDiV9KvZ/w\"",
-    "mtime": "2022-02-13T08:49:26.074Z",
+    "mtime": "2022-02-13T09:04:51.656Z",
     "path": "../public/_nuxt/manifest.json"
   }
 };
@@ -45,7 +45,7 @@ function getAsset (id) {
 
 const METHODS = ["HEAD", "GET"];
 const TWO_DAYS = 2 * 60 * 60 * 24;
-const STATIC_ASSETS_BASE = "/_nuxt/C:/Users/baiyue/Documents/GitHub/nuxt3-naive-ui-starter/dist" + "/" + "1644742082";
+const STATIC_ASSETS_BASE = "/_nuxt/C:/Users/baiyue/Documents/GitHub/nuxt3-naive-ui-starter/dist" + "/" + "1644743074";
 async function serveStatic(req, res) {
   if (!METHODS.includes(req.method)) {
     return;
