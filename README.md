@@ -5,6 +5,8 @@ everything works fine
 
 We recommend to look at the [documentation](https://v3.nuxtjs.org).
 
+[Edit on StackBlitz ⚡️](https://stackblitz.com/github/Baiyuetribe/nuxt3-naive-ui-starter)
+
 ## Setup
 
 Make sure to install the dependencies
