@@ -1,12 +1,13 @@
 # nuxt3-naive-ui-starter
 everything works fine
 
-> 遇到的问题，build下一切正常，dev下nuxt-ssr开启会报错，所以开发时暂时关闭ssr后一切正常。个人已尝试用于生成环境，暂时没有任何问题。
+> Nuxt3全自动按需引入naive-ui，vite极速开发、SEO友好。流量入口，我们来啦！
 
 We recommend to look at the [documentation](https://v3.nuxtjs.org).
 
 [Edit on StackBlitz ⚡️](https://stackblitz.com/github/Baiyuetribe/nuxt3-naive-ui-starter)
 
+[Online DEMO](https://naiveui-nuxt3-kk2l4botq-baiyuetribe.vercel.app)
 ## Setup
 
 Make sure to install the dependencies
