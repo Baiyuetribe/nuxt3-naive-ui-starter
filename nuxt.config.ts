@@ -3,19 +3,18 @@ import Components from 'unplugin-vue-components/vite';
 import { NaiveUiResolver } from 'unplugin-vue-components/resolvers';
 // https://v3.nuxtjs.org/docs/directory-structure/nuxt.config
 export default defineNuxtConfig({
-    ssr: false, // dev模式下开启报错 src.replace is not a function；Build模式正常
+    build: {
+        transpile: ['naive-ui', 'vueuc'],   // fix dev error: Cannot find module 'vueuc'
+    },
     vite: {
         plugins: [
-            // AutoImport({
-            //     resolvers: [NaiveUiResolver()],
-            // }),
             Components({
-                resolvers: [NaiveUiResolver()],
+                resolvers: [NaiveUiResolver()], // Automatically register all components in the `components` directory
             }),
         ],
         // @ts-expect-error: Missing ssr key
         ssr: {
-            noExternal: ['moment', 'compute-scroll-into-view', 'naive-ui'],
+            noExternal: ['moment', 'naive-ui'],
         },
     }
 })
