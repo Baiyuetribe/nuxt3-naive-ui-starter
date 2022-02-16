@@ -3,11 +3,20 @@ everything works fine
 
 > Nuxt3全自动按需引入naive-ui，vite极速开发、SEO友好。流量入口，我们来啦！
 
+<p align="center">
+  <br>
+  <a href="https://nuxt3-naive-ui.netlify.app/" target="_blank">
+    Live Demo
+  </a>
+  <br>
+  <a href="https://stackblitz.com/github/Baiyuetribe/nuxt3-naive-ui-starter" title="Open In Stackblitz">
+    <img src="https://developer.stackblitz.com/img/open_in_stackblitz.svg" alt="Open In Stackblitz">
+  </a>
+</p>
+
 We recommend to look at the [documentation](https://v3.nuxtjs.org).
 
-[Edit on StackBlitz ⚡️](https://stackblitz.com/github/Baiyuetribe/nuxt3-naive-ui-starter)
-
-[Online DEMO](https://naiveui-nuxt3-kk2l4botq-baiyuetribe.vercel.app)
+[Online DEMO](https://naiveui-nuxt3.vercel.app)
 ## Setup
 
 Make sure to install the dependencies
