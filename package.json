@@ -7,8 +7,8 @@
     "start": "node .output/server/index.mjs"
   },
   "devDependencies": {
-    "naive-ui": "^2.25.2",
+    "naive-ui": "^2.25.5",
     "nuxt3": "latest",
-    "unplugin-vue-components": "^0.17.18"
+    "unplugin-vue-components": "^0.17.21"
   }
 }
