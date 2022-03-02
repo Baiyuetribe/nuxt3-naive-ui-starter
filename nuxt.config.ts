@@ -4,7 +4,7 @@ import { NaiveUiResolver } from 'unplugin-vue-components/resolvers';
 // https://v3.nuxtjs.org/docs/directory-structure/nuxt.config
 export default defineNuxtConfig({
     build: {
-        transpile: ['naive-ui', 'vueuc'],   // fix dev error: Cannot find module 'vueuc'
+        transpile: ['vueuc'],   // fix dev error: Cannot find module 'vueuc'
     },
     vite: {
         plugins: [
