@@ -16,7 +16,7 @@ everything works fine
 
 We recommend to look at the [documentation](https://v3.nuxtjs.org).
 
-[Online DEMO](https://naiveui-nuxt3.vercel.app)
+[Online DEMO](https://duhaoshu.cc)
 ## Setup
 
 Make sure to install the dependencies
