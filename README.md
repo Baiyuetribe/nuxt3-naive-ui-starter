@@ -16,29 +16,13 @@ everything works fine
 
 We recommend to look at the [documentation](https://v3.nuxtjs.org).
 
+## Example
 [Online DEMO](https://duhaoshu.cc)
-## Setup
 
-Make sure to install the dependencies
+[阿里云盘资源网](https://www.aliyunpanziyuan.com/)
+## Setup
 
 ```bash
 yarn install
-```
-
-## Development
-
-Start the development server on http://localhost:3000
-
-```bash
 yarn dev
 ```
-
-## Production
-
-Build the application for production:
-
-```bash
-yarn build
-```
-
-Checkout the [deployment documentation](https://v3.nuxtjs.org/docs/deployment).
