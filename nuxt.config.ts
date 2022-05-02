@@ -14,7 +14,7 @@ export default defineNuxtConfig({
         ],
         // @ts-expect-error: Missing ssr key
         ssr: {
-            noExternal: ['moment', 'naive-ui', '@juggle/resize-observer'],
+            noExternal: ['moment', 'naive-ui', '@juggle/resize-observer', '@css-render/vue3-ssr'],
         },
     }
 })
