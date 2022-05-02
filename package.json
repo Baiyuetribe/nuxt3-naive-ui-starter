@@ -8,7 +8,7 @@
   },
   "devDependencies": {
     "naive-ui": "^2.28.2",
-    "nuxt3": "3.0.0-27478517.9c2e208",
+    "nuxt": "npm:nuxt3@latest",
     "unplugin-vue-components": "^0.17.21"
   }
 }

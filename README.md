@@ -20,9 +20,16 @@ We recommend to look at the [documentation](https://v3.nuxtjs.org).
 [Online DEMO](https://duhaoshu.cc)
 
 [阿里云盘资源网](https://www.aliyunpanziyuan.com/)
-## Setup
+
+## Usages
 
 ```bash
+git clone https://github.com/Baiyuetribe/nuxt3-naive-ui-starter.git
+cd nuxt3-naive-ui-starter 
 yarn install
 yarn dev
 ```
+## Dependencies
+
+- [TuSimple/naive-ui](https://github.com/TuSimple/naive-ui)
+- [nuxt/framework](https://github.com/nuxt/framework)
