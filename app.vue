@@ -1,6 +1,6 @@
 <template>
   <div>
-    <n-result status="success" title="succss" description="Naive-ui + Nuxt rc1">
+    <n-result status="success" title="succss" description="Naive-ui + Nuxt3">
       <template #footer>
         <n-space justify="center">
           <n-button type="success">Naive-ui</n-button>
@@ -17,9 +17,9 @@
     <n-h2>Tooltip demo</n-h2>
     <n-tooltip trigger="hover">
       <template #trigger>
-        <n-button>鸭子</n-button>
+        <n-button>Button</n-button>
       </template>
-      如果它长得像鸭子，走起来像鸭子，叫起来也像鸭子，那它一定是个鸭子。
+      Fairly Complete, Theme Customizable, Uses TypeScript, Fast Kinda Interesting
     </n-tooltip>
     <n-h1>特点</n-h1>
     <n-space>

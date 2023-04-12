@@ -16,10 +16,11 @@ everything works fine
 
 We recommend to look at the [documentation](https://v3.nuxtjs.org).
 
-## Example
-[Online DEMO](https://duhaoshu.cc)
+## Examples
+- [Online DEMO](https://duhaoshu.cc)
 
-[阿里云盘资源网](https://www.aliyunpanziyuan.com/)
+- [阿里云盘资源网](https://www.aliyunpanziyuan.com)
+- [小白兔AI](https://www.xiaobaituai.com)
 
 ## Usages
 
